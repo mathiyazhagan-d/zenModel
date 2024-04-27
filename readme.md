@@ -1,4 +1,10 @@
-# Database Model Design for ZenClass
+
+#  MongoDB
+
+ 
+## Database Model Design for ZenClass
+
+(day-35 Task) 
 
 This database model is designed for managing the ZenClass platform, facilitating interaction between students, mentors, and classes.
 
