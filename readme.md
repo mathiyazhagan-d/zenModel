@@ -4,7 +4,7 @@
  
 ## Database Model Design for ZenClass
 
-(day-35 Task) 
+(day-34 Task) 
 
 This database model is designed for managing the ZenClass platform, facilitating interaction between students, mentors, and classes.
 
